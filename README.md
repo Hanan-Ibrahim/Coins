@@ -8,6 +8,6 @@ This application is dark-mode enabled , it will get actual bitcoin exchange rate
   </tr> 
   <tr>
     <td> <img src="Images/Coins.gif" alt="1" width = 350></td>
-    <td><img src="Images/CoinsLandscape1.PNG" alt="2" width = 350></td>
+    <td><img src="Images/CoinsLandscape1.PNG" alt="2" width = 450></td>
   </td>
   </tr>
